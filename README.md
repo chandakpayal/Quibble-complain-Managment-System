@@ -2,7 +2,7 @@
 
 🤡 Summary of the project 
 
-
+A complaint management system built using the MERN stack is a comprehensive web application designed to efficiently handle and track user complaints. The system's frontend, developed with React, offers an intuitive interface for users to submit complaints, view existing ones, and monitor their statuses. Meanwhile, the backend, powered by Node.js and Express.js, manages the entire complaint workflow, including database interactions with MongoDB to store complaint data securely. User authentication and authorization mechanisms safeguard the system, ensuring that only authorized individuals can access, update, and close complaints. With error handling and validation mechanisms in place, the system maintains data integrity and delivers a seamless user experience. Overall, this MERN stack-based complaint management system offers an effective solution for businesses or organizations to efficiently manage and address user complaints.
 
 
 👁️👁️ ScreenShots 
